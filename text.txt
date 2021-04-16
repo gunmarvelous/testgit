@@ -1,1 +1,12 @@
-xvxcvvvvvvv
+xvxcvvvvv
+
+git init
+git add
+git commit -m "dasassf"
+git remote add origin githublink
+git push -u origin master
+git pull
+
+cd ..
+
+address bar (cmd)
